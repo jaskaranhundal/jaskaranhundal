@@ -1,4 +1,4 @@
-# Jaskarn Singh
+# Jaskarn Singh (He/Him)
 
 SOC & Cloud Security Engineer focused on detection, incident response, and secure cloud operations, with DevSecOps execution across CI/CD and containerized workloads.
 

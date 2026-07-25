@@ -2,12 +2,20 @@
 
 **Cloud Security & DevSecOps Engineer** securing cloud-native production systems, and building open-source tooling for securing AI and agentic systems. 8+ years across security engineering, cloud infrastructure, and networking.
 
-🔗 Portfolio: **[jaskarnsingh.vercel.app](https://jaskarnsingh.vercel.app)** · 💬 [LinkedIn](https://www.linkedin.com/in/jaskarnsinghcybersec)
+🔗 Portfolio: **[jaskarnsingh.vercel.app](https://jaskarnsingh.vercel.app)** · 🛡️ [USAP](https://usapsec.vercel.app) · 🔬 [ARIA](https://ariasec.vercel.app) · 💬 [LinkedIn](https://www.linkedin.com/in/jaskarnsinghcybersec)
 
 ## What I Do
 - Design and ship security architecture for cloud-native production systems in a regulated healthcare environment (ISO 27001, GDPR).
 - Build fleet-wide CI/CD security pipelines, container hardening, infrastructure-as-code platform services, and TLS automation.
 - Build AI-security tooling — securing LLM and agentic systems, mapped to OWASP LLM Top 10, MITRE ATLAS, and the NIST AI RMF.
+
+## Core Skills
+- **Security:** SAST / DAST / SCA (Semgrep, OWASP ZAP, Trivy, Gitleaks, npm-audit) · Vulnerability Management (Nessus, Qualys) · Incident Response · SIEM (ELK Stack) · Sentry · ISO 27001 · GDPR · PCI-DSS · Secure SDLC
+- **AI / LLM Security:** OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF · Agentic security (USAP) · garak · PyRIT · promptfoo
+- **Cloud:** AWS · Azure · Open Telekom Cloud (OpenStack) · Hetzner
+- **Containers & Orchestration:** Docker · Kubernetes · Non-root hardening · nginx
+- **CI/CD & Automation:** GitLab CI/CD · Jenkins · Python · Bash · WireGuard
+- **Networking:** FortiGate · Juniper · Cisco · Palo Alto · WAF · IDS/IPS
 
 ## Impact Highlights
 - **15+ production repositories** on one CI/CD security architecture — Semgrep SAST, OWASP ZAP DAST, npm-audit SCA, Trivy container/IaC scanning, Gitleaks secrets detection, every scanner image pinned by SHA-256 digest.
